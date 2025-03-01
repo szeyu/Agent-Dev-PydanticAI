@@ -30,6 +30,8 @@ Before running the code in this repository, you need to set up a Python virtual 
 4. Create a `.env` file in the root directory and add your API key:
    ```bash
    GEMINI_API_KEY=your_gemini_api_key
+   OPENAI_API_KEY=your_openai_api_key
+   ANTHROPIC_API_KEY=your_anthropic_api_key
    ```
 
 You should see `(venv)` at the beginning of your command prompt, indicating that the virtual environment is active.
